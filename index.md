@@ -1,7 +1,6 @@
 # **Hello, World! My name is Kevin Dyblie**
 
-<p style="float: left;"><img src="Bear2020.jpg" alt="Big Bear 2020" width="" height="" /></p>
-<div style ="padding-left: 600px;">
+![](Bear2020.jpg)
 
 # A Little About Me
 
@@ -30,8 +29,6 @@ I am from [Oceanside](https://visitoceanside.org/), California, born and raised!
 - Math 184 - Enumerative Combinatorics
 - CSE 105 - Theory of Computation
 - HIEU 128 - Europe since 1945
-</div>
-<br />
 
 Some basic the commandline commands:
 - mkdir - creates a new directory in the current working directory
@@ -50,5 +47,6 @@ How to write good code?
 - [ ] Browse Reddit
 - [x] Coffee!
 
-Want to know my favorite programming langauge? [Click here!](README.md) <br />
+Want to know my favorite programming langauge? [Click here!](README.md)
+
 [Return to Top of Page](#hello-world-my-name-is-kevin-dyblie)
