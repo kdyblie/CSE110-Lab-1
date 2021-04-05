@@ -52,8 +52,5 @@ How to write good code?
 - [ ] Browse Reddit
 - [x] Coffee!
 
-<blockquote class="reddit-card" data-card-created="1617596692"><a href="https://www.reddit.com/r/ProgrammerHumor/comments/m0pb7j/happens_every_time/">Happens every time</a> from <a href="http://www.reddit.com/r/ProgrammerHumor">r/ProgrammerHumor</a></blockquote>
-<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script> <br />
-
 Want to know my favorite programming langauge? [Click here!](README.md) <br />
 [Return to Top of Page](#hello-world-my-name-is-kevin-dyblie)
