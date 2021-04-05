@@ -47,6 +47,6 @@ How to write good code?
 - [ ] Browse Reddit
 - [x] Coffee!
 
-Want to know my favorite programming langauge? [Click here!](README.md)
+Want to know my favorite programming language? [Click here!](README.md)
 
 [Return to Top of Page](#hello-world-my-name-is-kevin-dyblie)
